@@ -92,4 +92,4 @@ def check_args(cls):
   return correct_args
 
 
-Inpaint = check_args(Inpainting)
+Inpaint = Inpainting
